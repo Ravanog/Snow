@@ -11,3 +11,4 @@ pyromod
 ffmpeg-python
 ffmpeg
 pyromod
+https://github.com/usernein/pyromod
