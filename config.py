@@ -46,8 +46,8 @@ Aɴᴅ Rᴇɴᴀᴍᴇ Wɪᴛʜᴏᴜᴛ Dᴏᴡɴʟᴏᴀᴅ 💯 Fᴜʟʟʏ W�
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/TG_LINKS_CHANNEL2>CLICK HERE</a> 
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/TG_UPDATES1>CLICK HERE</a>
+├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/TG_UPDATES1>CLICK HERE</a> 
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/KUSHALHK>CLICK HERE</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/Kushalhk>CLICK HERE</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
@@ -73,7 +73,7 @@ sᴇɴᴅ ɪᴍᴀɢᴇ ᴛᴏ sᴇᴛ ᴛʜᴜᴍʙɴᴀɪʟ
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @TG_LINKS_CHANNEL1" -metadata author="@TG_UPDATES1" -metadata:s:s title="Subtitled By :- @TG_LINKS_CHANNEL1" -metadata:s:a title="By :- @TG_LINKS_CHANNEL1" -metadata:s:v title="By:- @TG_UPDATES1" </code>
+◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @TG_UPDATES1" -metadata author="@TG_UPDATES1" -metadata:s:s title="Subtitled By :- @TG_LINKS_CHANNEL1" -metadata:s:a title="By :- @TG_LINKS_CHANNEL1" -metadata:s:v title="By:- @TG_UPDATES1" </code>
 
 📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ.
 """
