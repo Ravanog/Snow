@@ -1,6 +1,6 @@
-pyrogram==2.0.80
-TgCrypto
-motor
+pyrogram==2.0.38
+tgcrypto<=1.2.3
+aiohttp<=3.8.1
 dnspython
 hachoir
 Pillow
@@ -10,3 +10,4 @@ humanize
 pyromod
 ffmpeg-python
 ffmpeg
+python-dotenv<=0.20.0
