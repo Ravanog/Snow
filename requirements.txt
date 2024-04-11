@@ -11,3 +11,4 @@ pyromod
 ffmpeg-python
 ffmpeg
 python-dotenv<=0.20.0
+motor
