@@ -17,10 +17,10 @@ async def start(client, message):
     user = message.from_user
     await db.add_user(client, message)
     button = InlineKeyboardMarkup([[
-        InlineKeyboardButton('𝐂𝐇𝐀𝐍𝐍𝐄𝐋', url='https://t.me/+JrRgnfZT0GYwOGZl'),
-        InlineKeyboardButton('Sᴜᴩᴩᴏʀᴛ', url='https://t.me/TG_SUPPORT_GROUP')
+        InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ ', url='https://t.me/+qcIFCI0NT2g5ODhl'),
+        InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+Ul_owPNY0xQzOTRl')
         ],[
-        InlineKeyboardButton('⚙️ 𝐒𝐄𝐓𝐓𝐈𝐍𝐆𝐒 ⚙️', callback_data='settings') 
+        InlineKeyboardButton('ꜱᴇᴛᴛɪɴɢꜱ', callback_data='settings') 
         ],[
         InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about'),
         InlineKeyboardButton('Hᴇʟᴩ', callback_data='help')
@@ -64,10 +64,10 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.START_TXT.format(query.from_user.mention),
             disable_web_page_preview=True,
             reply_markup = InlineKeyboardMarkup([[
-                InlineKeyboardButton('𝐂𝐇𝐀𝐍𝐍𝐄𝐋', url='https://t.me/+JrRgnfZT0GYwOGZl'),
-                InlineKeyboardButton('Sᴜᴩᴩᴏʀᴛ', url='https://t.me/TG_SUPPORT_GROUP')
+                InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/+qcIFCI0NT2g5ODhl'),
+                InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+Ul_owPNY0xQzOTRl')
                 ],[
-                InlineKeyboardButton('⚙️ 𝐒𝐄𝐓𝐓𝐈𝐍𝐆𝐒 ⚙️', callback_data='settings') 
+                InlineKeyboardButton('ꜱᴇᴛᴛɪɴɢꜱ', callback_data='settings') 
                 ],[
                 InlineKeyboardButton('Aʙᴏᴜᴛ', callback_data='about'),
                 InlineKeyboardButton('Hᴇʟᴩ', callback_data='help')
