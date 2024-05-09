@@ -9,6 +9,6 @@ pytz
 humanize
 pyromod
 ffmpeg-python
-ffmpeg
+ffmpeg==5.1.4
 python-dotenv
 motor
